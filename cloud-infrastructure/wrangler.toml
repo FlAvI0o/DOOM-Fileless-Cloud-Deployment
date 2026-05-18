@@ -1,0 +1,7 @@
+name = "doom-volatile-api"
+main = "worker.js"
+compatibility_date = "2026-05-19"
+
+[[kv_namespaces]]
+binding = "DOOM_ASSETS"
+id = "YOUR_PRODUCTION_KV_NAMESPACE_ID_PLACEHOLDER"
